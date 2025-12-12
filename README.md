@@ -98,7 +98,7 @@ Model 1 (Embedding + Dense): Baseline performance.
 
 Model 2 (BiLSTM): Improved contextual understanding and higher F1-score.
 
-🔮 Future Improvements
+# 🔮 Future Improvements
 Add CRF layer for better sequence modeling.
 
 Use pre-trained embeddings (e.g., GloVe, FastText).
